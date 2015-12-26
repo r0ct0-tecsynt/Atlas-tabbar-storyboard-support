@@ -1,0 +1,13 @@
+PODS:
+  - Atlas (1.0.15):
+    - LayerKit (>= 0.17.1)
+  - LayerKit (0.17.5)
+
+DEPENDENCIES:
+  - Atlas
+
+SPEC CHECKSUMS:
+  Atlas: bd66c5b17719857a6b9e22299f76527245e06e88
+  LayerKit: e9445015ef5f30a9777ba245aa48bd723ee8c697
+
+COCOAPODS: 0.39.0
